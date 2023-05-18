@@ -8,11 +8,14 @@ Master_thesis.rmd- contains all the codes for the analysis and visualizations pe
 
 Master_thesis.html- contains the knitted html version of the rmd file.
 
-original_FFP- contains the FFP footprint model created by Kljun et al. (2015) which was used to compute footprints within the rmd file
-
 spatial_FFP- contains the modified FFP footprint model which was integrated to accept a spatial roughness parameter to compute the footprints within the rmd file
 
 user_defined_functions- contains codes for other user defined functions that were useful in the analysis and visualizations in the rmd script.
+
+
+
+To run the original model by Kljun et al. (2015), the script can be obtained from https://footprint.kljun.net/ which was used to compute the footprints within the rmd file
+
 
 
 Descriptions of the data:
